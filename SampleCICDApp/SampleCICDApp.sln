@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCICDApp", "SampleCICDApp\SampleCICDApp.csproj", "{7DFEC047-50C3-4225-96DC-D96B3C83146E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCICDApp.Tests", "SampleCICDApp.Tests\SampleCICDApp.Tests.csproj", "{4C3B201D-47FC-4793-BA97-9C64A7D1960D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFEC047-50C3-4225-96DC-D96B3C83146E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFEC047-50C3-4225-96DC-D96B3C83146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFEC047-50C3-4225-96DC-D96B3C83146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFEC047-50C3-4225-96DC-D96B3C83146E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3B201D-47FC-4793-BA97-9C64A7D1960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3B201D-47FC-4793-BA97-9C64A7D1960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3B201D-47FC-4793-BA97-9C64A7D1960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3B201D-47FC-4793-BA97-9C64A7D1960D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
